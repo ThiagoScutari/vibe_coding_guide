@@ -1,0 +1,21 @@
+# Pastas de referência / notas pessoais
+docs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# Dependências
+node_modules/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+EOF
